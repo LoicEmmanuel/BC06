@@ -1,1 +1,28 @@
-BC06 : Bras robotique capable de jouer du carillon.
+Cahier Des Charges BX06.
+
+BX06 : Bras robotique capable de jouer du xylophone.
+
+Fonctions du BX06 :
+-Saisir puis ranger une baguette posée à proximité.
+-Jouer sur un xylophone de type Glockenspiel Alto professionnel.
+-Jouer des notes sur un xylophone comme sur un piano.
+  .Une note devra être plus ou moins forte.
+  .Possibilité de jouer 15 notes différentes.
+-Jouer un ensemble de notes défini dans une bibliothèque.
+-Jouer une patition d'un fichier "midi".
+-Choisir une partition dans une bibliothèque.
+
+Performances du BX06 :
+-Jouer une note par seconde (à confirmer en fonction du bras robotique choisi).
+-Jouer des notes à 6 dB d'écart.
+-Jouer une partition de 3 minutes.
+-Saisir la baguette en moins de 10 secondes.
+
+Interfaces :
+-Alimentation électrique.
+-Connexion Bluetooth entre un smartphone et le robot.
+-Interface Xylophone virtuel sur l'application.
+-Bibliothèque d'enchainement de sons.
+
+Contraintes :
+-Faire attention aux consignes de sécurité pour ne pas abimer le matériel et blesser des spectateurs ou utilisateurs.
