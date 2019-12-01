@@ -1,8 +1,8 @@
-Cahier Des Charges BX06.
+Cahier Des Charges BC06.
 
-BX06 : Bras robotique capable de jouer du xylophone.
+BC06 : Bras robotique capable de jouer du xylophone.
 
-Fonctions du BX06 :
+Fonctions du BC06 :
 -Saisir puis ranger une baguette posée à proximité.
 -Jouer sur un xylophone de type Glockenspiel Alto professionnel.
 -Jouer des notes sur un xylophone comme sur un piano.
@@ -12,7 +12,7 @@ Fonctions du BX06 :
 -Jouer une patition d'un fichier "midi".
 -Choisir une partition dans une bibliothèque.
 
-Performances du BX06 :
+Performances du BC06 :
 -Jouer une note par seconde (à confirmer en fonction du bras robotique choisi).
 -Jouer des notes à 6 dB d'écart.
 -Jouer une partition de 3 minutes.
